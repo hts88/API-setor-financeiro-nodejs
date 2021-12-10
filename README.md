@@ -11,7 +11,7 @@ realizar saque,
 deletar conta,
 obter saldo da conta,
 atualizar dados da conta,
-e fazer saque e deposito
+fazer saque e deposito
 
 regras:
 
