@@ -2,16 +2,16 @@
 
 funções da api:
 
-buscar extrato por data
-buscar extrato por cliente
-criar conta
-deletar conta
-obter dados da conta
-realizar saque
-deletar conta
-obter saldo da conta
-atualizar dados da conta
-fazer saque e deposito
+buscar extrato por data,
+buscar extrato por cliente,
+criar conta,
+deletar conta,
+obter dados da conta,
+realizar saque,
+deletar conta,
+obter saldo da conta,
+atualizar dados da conta,
+e fazer saque e deposito
 
 regras:
 
