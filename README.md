@@ -5,6 +5,7 @@ funções da api:
 criar conta
 
 deletar conta
+
 buscar extrato por data
 
 buscar extrato por cliente
